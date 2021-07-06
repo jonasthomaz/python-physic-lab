@@ -1,0 +1,6 @@
+[packages]
+matplotlib="3.4.2"
+matplotlib-venn="0.11.6"
+
+[requires]
+python_version = "3.8"
